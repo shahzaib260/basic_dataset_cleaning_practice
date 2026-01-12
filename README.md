@@ -1,8 +1,8 @@
-#Employee Data Cleaning & Feature Engineering using Pandas
+# Employee Data Cleaning & Feature Engineering using Pandas
 
 This project focuses on practicing real world data cleaning and feature engineering using Python and Pandas.
 
-##What I worked on:
+## What I worked on:
 
 Handled missing values in multiple columns
 
